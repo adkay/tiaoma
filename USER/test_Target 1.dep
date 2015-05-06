@@ -1,0 +1,167 @@
+Dependencies for Project 'test', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_stm32f10x_hd.s)(0x504414D0)(--cpu Cortex-M3 -g --apcs=interwork -I C:\Keil4.7\ARM\RV31\INC -I C:\Keil4.7\ARM\CMSIS\Include -I C:\Keil4.7\ARM\Inc\ST\STM32F10x --list "..\OBJ\startup_stm32f10x_hd.lst" --xref -o "..\OBJ\startup_stm32f10x_hd.o" --depend "..\OBJ\startup_stm32f10x_hd.d")
+F (.\test.c)(0x553EBD04)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\HARDWARE\LED -I..\HARDWARE\BEEP -I..\HARDWARE\KEY -I..\HARDWARE\USART2 -I..\HARDWARE\USART1 -I..\HARDWARE\USART3 -I..\HARDWARE\USART4 -I..\HARDWARE\TIMER -I..\HARDWARE\24CXX -I..\HARDWARE\DMA -I C:\Keil4.7\ARM\RV31\INC -I C:\Keil4.7\ARM\CMSIS\Include -I C:\Keil4.7\ARM\Inc\ST\STM32F10x -o "..\OBJ\test.o" --omf_browse "..\OBJ\test.crf" --depend "..\OBJ\test.d")
+I (..\SYSTEM\sys\sys.h)(0x50436833)
+I (..\SYSTEM\sys\stm32f10x_map.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_conf.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_type.h)(0x4A0282C6)
+I (..\SYSTEM\sys\cortexm3_macro.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_nvic.h)(0x4A0282C6)
+I (..\SYSTEM\delay\delay.h)(0x50436849)
+I (..\HARDWARE\LED\led.h)(0x5440FC52)
+I (..\HARDWARE\BEEP\beep.h)(0x50437501)
+I (..\HARDWARE\KEY\key.h)(0x50442308)
+I (..\HARDWARE\USART1\usart1.h)(0x553E32EF)
+I (C:\Keil4.7\ARM\ARMCC\bin\..\include\stdio.h)(0x50F96150)
+I (..\HARDWARE\USART2\usart2.h)(0x546AF61B)
+I (..\HARDWARE\USART3\usart3.h)(0x550C1DB6)
+I (..\HARDWARE\USART4\usart4.h)(0x5473340B)
+I (..\HARDWARE\TIMER\timer.h)(0x540DEBCF)
+I (..\HARDWARE\24CXX\24cxx.h)(0x541043BD)
+I (..\HARDWARE\24CXX\myiic.h)(0x541048F1)
+I (..\HARDWARE\DMA\dma.h)(0x504B5D82)
+I (C:\Keil4.7\ARM\ARMCC\bin\..\include\string.h)(0x50F96150)
+F (..\SYSTEM\delay\delay.c)(0x50436880)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\HARDWARE\LED -I..\HARDWARE\BEEP -I..\HARDWARE\KEY -I..\HARDWARE\USART2 -I..\HARDWARE\USART1 -I..\HARDWARE\USART3 -I..\HARDWARE\USART4 -I..\HARDWARE\TIMER -I..\HARDWARE\24CXX -I..\HARDWARE\DMA -I C:\Keil4.7\ARM\RV31\INC -I C:\Keil4.7\ARM\CMSIS\Include -I C:\Keil4.7\ARM\Inc\ST\STM32F10x -o "..\OBJ\delay.o" --omf_browse "..\OBJ\delay.crf" --depend "..\OBJ\delay.d")
+I (..\SYSTEM\delay\delay.h)(0x50436849)
+I (..\SYSTEM\sys\stm32f10x_map.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_conf.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_type.h)(0x4A0282C6)
+I (..\SYSTEM\sys\cortexm3_macro.h)(0x4A0282C6)
+I (..\SYSTEM\sys\sys.h)(0x50436833)
+I (..\SYSTEM\sys\stm32f10x_nvic.h)(0x4A0282C6)
+F (..\SYSTEM\sys\sys.c)(0x5061B3C6)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\HARDWARE\LED -I..\HARDWARE\BEEP -I..\HARDWARE\KEY -I..\HARDWARE\USART2 -I..\HARDWARE\USART1 -I..\HARDWARE\USART3 -I..\HARDWARE\USART4 -I..\HARDWARE\TIMER -I..\HARDWARE\24CXX -I..\HARDWARE\DMA -I C:\Keil4.7\ARM\RV31\INC -I C:\Keil4.7\ARM\CMSIS\Include -I C:\Keil4.7\ARM\Inc\ST\STM32F10x -o "..\OBJ\sys.o" --omf_browse "..\OBJ\sys.crf" --depend "..\OBJ\sys.d")
+I (..\SYSTEM\sys\sys.h)(0x50436833)
+I (..\SYSTEM\sys\stm32f10x_map.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_conf.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_type.h)(0x4A0282C6)
+I (..\SYSTEM\sys\cortexm3_macro.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_nvic.h)(0x4A0282C6)
+F (..\HARDWARE\LED\led.c)(0x540D175B)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\HARDWARE\LED -I..\HARDWARE\BEEP -I..\HARDWARE\KEY -I..\HARDWARE\USART2 -I..\HARDWARE\USART1 -I..\HARDWARE\USART3 -I..\HARDWARE\USART4 -I..\HARDWARE\TIMER -I..\HARDWARE\24CXX -I..\HARDWARE\DMA -I C:\Keil4.7\ARM\RV31\INC -I C:\Keil4.7\ARM\CMSIS\Include -I C:\Keil4.7\ARM\Inc\ST\STM32F10x -o "..\OBJ\led.o" --omf_browse "..\OBJ\led.crf" --depend "..\OBJ\led.d")
+I (..\HARDWARE\LED\led.h)(0x5440FC52)
+I (..\SYSTEM\sys\sys.h)(0x50436833)
+I (..\SYSTEM\sys\stm32f10x_map.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_conf.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_type.h)(0x4A0282C6)
+I (..\SYSTEM\sys\cortexm3_macro.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_nvic.h)(0x4A0282C6)
+F (..\HARDWARE\BEEP\beep.c)(0x5043756C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\HARDWARE\LED -I..\HARDWARE\BEEP -I..\HARDWARE\KEY -I..\HARDWARE\USART2 -I..\HARDWARE\USART1 -I..\HARDWARE\USART3 -I..\HARDWARE\USART4 -I..\HARDWARE\TIMER -I..\HARDWARE\24CXX -I..\HARDWARE\DMA -I C:\Keil4.7\ARM\RV31\INC -I C:\Keil4.7\ARM\CMSIS\Include -I C:\Keil4.7\ARM\Inc\ST\STM32F10x -o "..\OBJ\beep.o" --omf_browse "..\OBJ\beep.crf" --depend "..\OBJ\beep.d")
+I (..\HARDWARE\BEEP\beep.h)(0x50437501)
+I (..\SYSTEM\sys\sys.h)(0x50436833)
+I (..\SYSTEM\sys\stm32f10x_map.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_conf.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_type.h)(0x4A0282C6)
+I (..\SYSTEM\sys\cortexm3_macro.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_nvic.h)(0x4A0282C6)
+F (..\HARDWARE\KEY\key.c)(0x50442308)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\HARDWARE\LED -I..\HARDWARE\BEEP -I..\HARDWARE\KEY -I..\HARDWARE\USART2 -I..\HARDWARE\USART1 -I..\HARDWARE\USART3 -I..\HARDWARE\USART4 -I..\HARDWARE\TIMER -I..\HARDWARE\24CXX -I..\HARDWARE\DMA -I C:\Keil4.7\ARM\RV31\INC -I C:\Keil4.7\ARM\CMSIS\Include -I C:\Keil4.7\ARM\Inc\ST\STM32F10x -o "..\OBJ\key.o" --omf_browse "..\OBJ\key.crf" --depend "..\OBJ\key.d")
+I (..\HARDWARE\KEY\key.h)(0x50442308)
+I (..\SYSTEM\sys\sys.h)(0x50436833)
+I (..\SYSTEM\sys\stm32f10x_map.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_conf.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_type.h)(0x4A0282C6)
+I (..\SYSTEM\sys\cortexm3_macro.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_nvic.h)(0x4A0282C6)
+I (..\SYSTEM\delay\delay.h)(0x50436849)
+F (..\HARDWARE\USART2\usart2.c)(0x547ED2A9)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\HARDWARE\LED -I..\HARDWARE\BEEP -I..\HARDWARE\KEY -I..\HARDWARE\USART2 -I..\HARDWARE\USART1 -I..\HARDWARE\USART3 -I..\HARDWARE\USART4 -I..\HARDWARE\TIMER -I..\HARDWARE\24CXX -I..\HARDWARE\DMA -I C:\Keil4.7\ARM\RV31\INC -I C:\Keil4.7\ARM\CMSIS\Include -I C:\Keil4.7\ARM\Inc\ST\STM32F10x -o "..\OBJ\usart2.o" --omf_browse "..\OBJ\usart2.crf" --depend "..\OBJ\usart2.d")
+I (..\SYSTEM\sys\sys.h)(0x50436833)
+I (..\SYSTEM\sys\stm32f10x_map.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_conf.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_type.h)(0x4A0282C6)
+I (..\SYSTEM\sys\cortexm3_macro.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_nvic.h)(0x4A0282C6)
+I (..\HARDWARE\USART1\usart1.h)(0x553E32EF)
+I (C:\Keil4.7\ARM\ARMCC\bin\..\include\stdio.h)(0x50F96150)
+I (..\HARDWARE\USART2\usart2.h)(0x546AF61B)
+I (..\SYSTEM\delay\delay.h)(0x50436849)
+I (..\HARDWARE\USART3\usart3.h)(0x550C1DB6)
+I (..\HARDWARE\USART4\usart4.h)(0x5473340B)
+I (C:\Keil4.7\ARM\ARMCC\bin\..\include\string.h)(0x50F96150)
+I (C:\Keil4.7\ARM\ARMCC\bin\..\include\stdarg.h)(0x50F9614E)
+F (..\HARDWARE\USART1\usart1.c)(0x553EBD04)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\HARDWARE\LED -I..\HARDWARE\BEEP -I..\HARDWARE\KEY -I..\HARDWARE\USART2 -I..\HARDWARE\USART1 -I..\HARDWARE\USART3 -I..\HARDWARE\USART4 -I..\HARDWARE\TIMER -I..\HARDWARE\24CXX -I..\HARDWARE\DMA -I C:\Keil4.7\ARM\RV31\INC -I C:\Keil4.7\ARM\CMSIS\Include -I C:\Keil4.7\ARM\Inc\ST\STM32F10x -o "..\OBJ\usart1.o" --omf_browse "..\OBJ\usart1.crf" --depend "..\OBJ\usart1.d")
+I (..\SYSTEM\sys\sys.h)(0x50436833)
+I (..\SYSTEM\sys\stm32f10x_map.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_conf.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_type.h)(0x4A0282C6)
+I (..\SYSTEM\sys\cortexm3_macro.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_nvic.h)(0x4A0282C6)
+I (..\HARDWARE\USART1\usart1.h)(0x553E32EF)
+I (C:\Keil4.7\ARM\ARMCC\bin\..\include\stdio.h)(0x50F96150)
+I (..\HARDWARE\USART2\usart2.h)(0x546AF61B)
+I (..\HARDWARE\USART3\usart3.h)(0x550C1DB6)
+I (..\SYSTEM\delay\delay.h)(0x50436849)
+I (C:\Keil4.7\ARM\ARMCC\bin\..\include\string.h)(0x50F96150)
+I (C:\Keil4.7\ARM\ARMCC\bin\..\include\stdarg.h)(0x50F9614E)
+I (..\HARDWARE\24CXX\24cxx.h)(0x541043BD)
+I (..\HARDWARE\24CXX\myiic.h)(0x541048F1)
+F (..\HARDWARE\USART3\usart3.c)(0x550C223C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\HARDWARE\LED -I..\HARDWARE\BEEP -I..\HARDWARE\KEY -I..\HARDWARE\USART2 -I..\HARDWARE\USART1 -I..\HARDWARE\USART3 -I..\HARDWARE\USART4 -I..\HARDWARE\TIMER -I..\HARDWARE\24CXX -I..\HARDWARE\DMA -I C:\Keil4.7\ARM\RV31\INC -I C:\Keil4.7\ARM\CMSIS\Include -I C:\Keil4.7\ARM\Inc\ST\STM32F10x -o "..\OBJ\usart3.o" --omf_browse "..\OBJ\usart3.crf" --depend "..\OBJ\usart3.d")
+I (..\SYSTEM\sys\sys.h)(0x50436833)
+I (..\SYSTEM\sys\stm32f10x_map.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_conf.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_type.h)(0x4A0282C6)
+I (..\SYSTEM\sys\cortexm3_macro.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_nvic.h)(0x4A0282C6)
+I (..\HARDWARE\USART1\usart1.h)(0x553E32EF)
+I (C:\Keil4.7\ARM\ARMCC\bin\..\include\stdio.h)(0x50F96150)
+I (..\HARDWARE\USART3\usart3.h)(0x550C1DB6)
+I (..\HARDWARE\USART4\usart4.h)(0x5473340B)
+I (..\SYSTEM\delay\delay.h)(0x50436849)
+I (C:\Keil4.7\ARM\ARMCC\bin\..\include\math.h)(0x50F96150)
+I (..\HARDWARE\USART2\usart2.h)(0x546AF61B)
+I (..\HARDWARE\TIMER\timer.h)(0x540DEBCF)
+I (..\HARDWARE\24CXX\24cxx.h)(0x541043BD)
+I (..\HARDWARE\24CXX\myiic.h)(0x541048F1)
+I (C:\Keil4.7\ARM\ARMCC\bin\..\include\stdlib.h)(0x50F96150)
+I (C:\Keil4.7\ARM\ARMCC\bin\..\include\string.h)(0x50F96150)
+I (C:\Keil4.7\ARM\ARMCC\bin\..\include\stdarg.h)(0x50F9614E)
+F (..\HARDWARE\USART4\usart4.c)(0x54785151)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\HARDWARE\LED -I..\HARDWARE\BEEP -I..\HARDWARE\KEY -I..\HARDWARE\USART2 -I..\HARDWARE\USART1 -I..\HARDWARE\USART3 -I..\HARDWARE\USART4 -I..\HARDWARE\TIMER -I..\HARDWARE\24CXX -I..\HARDWARE\DMA -I C:\Keil4.7\ARM\RV31\INC -I C:\Keil4.7\ARM\CMSIS\Include -I C:\Keil4.7\ARM\Inc\ST\STM32F10x -o "..\OBJ\usart4.o" --omf_browse "..\OBJ\usart4.crf" --depend "..\OBJ\usart4.d")
+I (..\SYSTEM\delay\delay.h)(0x50436849)
+I (..\SYSTEM\sys\stm32f10x_map.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_conf.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_type.h)(0x4A0282C6)
+I (..\SYSTEM\sys\cortexm3_macro.h)(0x4A0282C6)
+I (..\HARDWARE\USART4\usart4.h)(0x5473340B)
+I (..\SYSTEM\sys\sys.h)(0x50436833)
+I (..\SYSTEM\sys\stm32f10x_nvic.h)(0x4A0282C6)
+I (..\HARDWARE\USART1\usart1.h)(0x553E32EF)
+I (C:\Keil4.7\ARM\ARMCC\bin\..\include\stdio.h)(0x50F96150)
+I (C:\Keil4.7\ARM\ARMCC\bin\..\include\math.h)(0x50F96150)
+I (C:\Keil4.7\ARM\ARMCC\bin\..\include\stdarg.h)(0x50F9614E)
+I (C:\Keil4.7\ARM\ARMCC\bin\..\include\string.h)(0x50F96150)
+I (C:\Keil4.7\ARM\ARMCC\bin\..\include\stdlib.h)(0x50F96150)
+F (..\HARDWARE\TIMER\timer.c)(0x553E3394)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\HARDWARE\LED -I..\HARDWARE\BEEP -I..\HARDWARE\KEY -I..\HARDWARE\USART2 -I..\HARDWARE\USART1 -I..\HARDWARE\USART3 -I..\HARDWARE\USART4 -I..\HARDWARE\TIMER -I..\HARDWARE\24CXX -I..\HARDWARE\DMA -I C:\Keil4.7\ARM\RV31\INC -I C:\Keil4.7\ARM\CMSIS\Include -I C:\Keil4.7\ARM\Inc\ST\STM32F10x -o "..\OBJ\timer.o" --omf_browse "..\OBJ\timer.crf" --depend "..\OBJ\timer.d")
+I (..\HARDWARE\TIMER\timer.h)(0x540DEBCF)
+I (..\SYSTEM\sys\sys.h)(0x50436833)
+I (..\SYSTEM\sys\stm32f10x_map.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_conf.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_type.h)(0x4A0282C6)
+I (..\SYSTEM\sys\cortexm3_macro.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_nvic.h)(0x4A0282C6)
+I (..\HARDWARE\LED\led.h)(0x5440FC52)
+F (..\HARDWARE\24CXX\24cxx.c)(0x541045F7)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\HARDWARE\LED -I..\HARDWARE\BEEP -I..\HARDWARE\KEY -I..\HARDWARE\USART2 -I..\HARDWARE\USART1 -I..\HARDWARE\USART3 -I..\HARDWARE\USART4 -I..\HARDWARE\TIMER -I..\HARDWARE\24CXX -I..\HARDWARE\DMA -I C:\Keil4.7\ARM\RV31\INC -I C:\Keil4.7\ARM\CMSIS\Include -I C:\Keil4.7\ARM\Inc\ST\STM32F10x -o "..\OBJ\24cxx.o" --omf_browse "..\OBJ\24cxx.crf" --depend "..\OBJ\24cxx.d")
+I (..\HARDWARE\24CXX\24cxx.h)(0x541043BD)
+I (..\HARDWARE\24CXX\myiic.h)(0x541048F1)
+I (..\SYSTEM\sys\sys.h)(0x50436833)
+I (..\SYSTEM\sys\stm32f10x_map.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_conf.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_type.h)(0x4A0282C6)
+I (..\SYSTEM\sys\cortexm3_macro.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_nvic.h)(0x4A0282C6)
+I (..\SYSTEM\delay\delay.h)(0x50436849)
+F (..\HARDWARE\24CXX\myiic.c)(0x541048F1)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\HARDWARE\LED -I..\HARDWARE\BEEP -I..\HARDWARE\KEY -I..\HARDWARE\USART2 -I..\HARDWARE\USART1 -I..\HARDWARE\USART3 -I..\HARDWARE\USART4 -I..\HARDWARE\TIMER -I..\HARDWARE\24CXX -I..\HARDWARE\DMA -I C:\Keil4.7\ARM\RV31\INC -I C:\Keil4.7\ARM\CMSIS\Include -I C:\Keil4.7\ARM\Inc\ST\STM32F10x -o "..\OBJ\myiic.o" --omf_browse "..\OBJ\myiic.crf" --depend "..\OBJ\myiic.d")
+I (..\HARDWARE\24CXX\myiic.h)(0x541048F1)
+I (..\SYSTEM\sys\sys.h)(0x50436833)
+I (..\SYSTEM\sys\stm32f10x_map.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_conf.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_type.h)(0x4A0282C6)
+I (..\SYSTEM\sys\cortexm3_macro.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_nvic.h)(0x4A0282C6)
+I (..\SYSTEM\delay\delay.h)(0x50436849)
+F (..\HARDWARE\DMA\dma.c)(0x504C1638)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\HARDWARE\LED -I..\HARDWARE\BEEP -I..\HARDWARE\KEY -I..\HARDWARE\USART2 -I..\HARDWARE\USART1 -I..\HARDWARE\USART3 -I..\HARDWARE\USART4 -I..\HARDWARE\TIMER -I..\HARDWARE\24CXX -I..\HARDWARE\DMA -I C:\Keil4.7\ARM\RV31\INC -I C:\Keil4.7\ARM\CMSIS\Include -I C:\Keil4.7\ARM\Inc\ST\STM32F10x -o "..\OBJ\dma.o" --omf_browse "..\OBJ\dma.crf" --depend "..\OBJ\dma.d")
+I (..\HARDWARE\DMA\dma.h)(0x504B5D82)
+I (..\SYSTEM\sys\sys.h)(0x50436833)
+I (..\SYSTEM\sys\stm32f10x_map.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_conf.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_type.h)(0x4A0282C6)
+I (..\SYSTEM\sys\cortexm3_macro.h)(0x4A0282C6)
+I (..\SYSTEM\sys\stm32f10x_nvic.h)(0x4A0282C6)
+I (..\SYSTEM\delay\delay.h)(0x50436849)
+F (..\BOOK\shuju.txt)(0x5411757E)()

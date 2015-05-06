@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualTFT Name="Project" OutputDirectory="output\" StartupPage="Screen2" StartupAction="" StartupActionLoop="1" DeviceType="30006" DeviceEnableControl="1" DeviceEnableTouchPane="1" DeviceEnableBuzzer="2" DeviceEnableCRC="0" DeviceBaudRate="7" DeviceCoordinateUpdateMode="4" DeviceControlNotify="2" DeviceScreenNotify="0" DeviceScreenRvs="0" DeviceBacklightAutoControl="1" DeviceBacklightTime="255" DeviceBacklightOn="130" DeviceBacklightOff="40" Version="1.0" BacklightAutoControl="1" DeviceEnableSlidingScreen="0">
+	<Pages><Page RelativePath="Screen0.tft"/><Page RelativePath="Screen1.tft"/><Page RelativePath="Screen2.tft"/><Page RelativePath="Screen3.tft"/></Pages>
+	<Images><Image RelativePath="Screen0.bmp"/></Images>
+	<Waves/>
+</VisualTFT>

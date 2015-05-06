@@ -1,0 +1,15 @@
+..\OBJ\usart4.o: ..\HARDWARE\USART4\usart4.c
+..\OBJ\usart4.o: ..\SYSTEM\delay\delay.h
+..\OBJ\usart4.o: ..\SYSTEM\sys\stm32f10x_map.h
+..\OBJ\usart4.o: ..\SYSTEM\sys\stm32f10x_conf.h
+..\OBJ\usart4.o: ..\SYSTEM\sys\stm32f10x_type.h
+..\OBJ\usart4.o: ..\SYSTEM\sys\cortexm3_macro.h
+..\OBJ\usart4.o: ..\HARDWARE\USART4\usart4.h
+..\OBJ\usart4.o: ..\SYSTEM\sys\sys.h
+..\OBJ\usart4.o: ..\SYSTEM\sys\stm32f10x_nvic.h
+..\OBJ\usart4.o: ..\HARDWARE\USART1\usart1.h
+..\OBJ\usart4.o: C:\Keil4.7\ARM\ARMCC\bin\..\include\stdio.h
+..\OBJ\usart4.o: C:\Keil4.7\ARM\ARMCC\bin\..\include\math.h
+..\OBJ\usart4.o: C:\Keil4.7\ARM\ARMCC\bin\..\include\stdarg.h
+..\OBJ\usart4.o: C:\Keil4.7\ARM\ARMCC\bin\..\include\string.h
+..\OBJ\usart4.o: C:\Keil4.7\ARM\ARMCC\bin\..\include\stdlib.h
