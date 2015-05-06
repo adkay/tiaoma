@@ -22,7 +22,7 @@ u8 xxx[9]={0xEE,0x20,0x00,0x28,0x00,0x81,0x00,0x05};
 u8 Sys_Status=0x0;   // 0:网络连接标志位  1： 打印开始  2：打印成功
 void u1_Send(u8 P)
 	{
-		
+	
 			USART1->DR=P;
 			while((USART1->SR&0X40)==0);
 		
