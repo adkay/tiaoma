@@ -6,10 +6,10 @@
         <page name="Screen3" id="3" />
     </pages>
     <images>
-        <image id="0" url="g:\我的\data\条码打印\project\打印.png" width="83" height="41" crop="0" effect_left="0" effect_top="0" effect_width="83" effect_height="41" size="6806" />
-        <image id="1" url="g:\我的\data\条码打印\project\1943.png" width="83" height="41" crop="0" effect_left="0" effect_top="0" effect_width="83" effect_height="41" size="6806" />
-        <image id="2" url="g:\我的\data\条码打印\project\删除.jpg" width="83" height="41" crop="0" effect_left="0" effect_top="0" effect_width="83" effect_height="41" size="6806" />
-        <image id="3" url="g:\我的\data\条码打印\project\52-1411191631410-L.jpg" width="1024" height="600" crop="0" effect_left="0" effect_top="0" effect_width="1024" effect_height="600" size="1228800" />
+        <image id="0" url="g:\kay\repository\条码打印\project\打印.png" width="149" height="63" crop="0" effect_left="0" effect_top="0" effect_width="149" effect_height="63" size="18774" />
+        <image id="1" url="g:\kay\repository\条码打印\project\1943.png" width="149" height="63" crop="0" effect_left="0" effect_top="0" effect_width="149" effect_height="63" size="18774" />
+        <image id="2" url="g:\kay\repository\条码打印\project\Right arrow.wmf" width="85" height="49" crop="0" effect_left="0" effect_top="0" effect_width="85" effect_height="49" size="8330" />
+        <image id="3" url="g:\kay\repository\条码打印\project\52-1411191631410-L.jpg" width="1024" height="600" crop="0" effect_left="0" effect_top="0" effect_width="1024" effect_height="600" size="1228800" />
     </images>
     <waves />
 </Resource>

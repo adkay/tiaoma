@@ -229,10 +229,10 @@
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>13</ColumnNumber>
+      <ColumnNumber>19</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>77</TopLine>
-      <CurrentLine>92</CurrentLine>
+      <TopLine>62</TopLine>
+      <CurrentLine>71</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\test.c</PathWithFileName>
       <FilenameWithoutPath>test.c</FilenameWithoutPath>
@@ -381,8 +381,8 @@
       <Focus>0</Focus>
       <ColumnNumber>0</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>76</TopLine>
-      <CurrentLine>77</CurrentLine>
+      <TopLine>0</TopLine>
+      <CurrentLine>0</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>..\HARDWARE\USART2\usart2.c</PathWithFileName>
       <FilenameWithoutPath>usart2.c</FilenameWithoutPath>
@@ -395,10 +395,10 @@
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>13</ColumnNumber>
+      <ColumnNumber>28</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>4</TopLine>
-      <CurrentLine>22</CurrentLine>
+      <TopLine>153</TopLine>
+      <CurrentLine>172</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>..\HARDWARE\USART1\usart1.c</PathWithFileName>
       <FilenameWithoutPath>usart1.c</FilenameWithoutPath>
@@ -411,10 +411,10 @@
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>2</ColumnNumber>
+      <ColumnNumber>1</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>259</TopLine>
-      <CurrentLine>274</CurrentLine>
+      <TopLine>260</TopLine>
+      <CurrentLine>275</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>..\HARDWARE\USART3\usart3.c</PathWithFileName>
       <FilenameWithoutPath>usart3.c</FilenameWithoutPath>
@@ -429,8 +429,8 @@
       <Focus>0</Focus>
       <ColumnNumber>17</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>60</TopLine>
-      <CurrentLine>15</CurrentLine>
+      <TopLine>0</TopLine>
+      <CurrentLine>0</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>..\HARDWARE\USART4\usart4.c</PathWithFileName>
       <FilenameWithoutPath>usart4.c</FilenameWithoutPath>
@@ -443,10 +443,10 @@
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>4</ColumnNumber>
+      <ColumnNumber>2</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>11</TopLine>
-      <CurrentLine>22</CurrentLine>
+      <TopLine>26</TopLine>
+      <CurrentLine>47</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>..\HARDWARE\TIMER\timer.c</PathWithFileName>
       <FilenameWithoutPath>timer.c</FilenameWithoutPath>

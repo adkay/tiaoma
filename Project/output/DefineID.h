@@ -22,6 +22,9 @@
 //按钮Button1的控件ID
 #define  _BTN_SCREEN0_BUTTON1                                                 19
 
+//画面Screen0中按钮Button1弹起时的图片
+#define  _IMG_SCREEN0_BUTTON1_UP                                               2
+
 //按钮Button2的控件ID
 #define  _BTN_SCREEN0_BUTTON2                                                  6
 
@@ -30,9 +33,6 @@
 
 //按钮Button6的控件ID
 #define  _BTN_SCREEN0_BUTTON6                                                 22
-
-//画面Screen0中按钮Button6弹起时的图片
-#define  _IMG_SCREEN0_BUTTON6_UP                                               2
 
 //按钮Button1的控件ID
 #define  _BTN_SCREEN1_BUTTON1                                                  6

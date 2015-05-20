@@ -1,6 +1,6 @@
 Dependencies for Project 'test', Target 'Target 1': (DO NOT MODIFY !)
 F (.\startup_stm32f10x_hd.s)(0x504414D0)(--cpu Cortex-M3 -g --apcs=interwork -I C:\Keil4.7\ARM\RV31\INC -I C:\Keil4.7\ARM\CMSIS\Include -I C:\Keil4.7\ARM\Inc\ST\STM32F10x --list "..\OBJ\startup_stm32f10x_hd.lst" --xref -o "..\OBJ\startup_stm32f10x_hd.o" --depend "..\OBJ\startup_stm32f10x_hd.d")
-F (.\test.c)(0x553EBD04)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\HARDWARE\LED -I..\HARDWARE\BEEP -I..\HARDWARE\KEY -I..\HARDWARE\USART2 -I..\HARDWARE\USART1 -I..\HARDWARE\USART3 -I..\HARDWARE\USART4 -I..\HARDWARE\TIMER -I..\HARDWARE\24CXX -I..\HARDWARE\DMA -I C:\Keil4.7\ARM\RV31\INC -I C:\Keil4.7\ARM\CMSIS\Include -I C:\Keil4.7\ARM\Inc\ST\STM32F10x -o "..\OBJ\test.o" --omf_browse "..\OBJ\test.crf" --depend "..\OBJ\test.d")
+F (.\test.c)(0x5549878B)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\HARDWARE\LED -I..\HARDWARE\BEEP -I..\HARDWARE\KEY -I..\HARDWARE\USART2 -I..\HARDWARE\USART1 -I..\HARDWARE\USART3 -I..\HARDWARE\USART4 -I..\HARDWARE\TIMER -I..\HARDWARE\24CXX -I..\HARDWARE\DMA -I C:\Keil4.7\ARM\RV31\INC -I C:\Keil4.7\ARM\CMSIS\Include -I C:\Keil4.7\ARM\Inc\ST\STM32F10x -o "..\OBJ\test.o" --omf_browse "..\OBJ\test.crf" --depend "..\OBJ\test.d")
 I (..\SYSTEM\sys\sys.h)(0x50436833)
 I (..\SYSTEM\sys\stm32f10x_map.h)(0x4A0282C6)
 I (..\SYSTEM\sys\stm32f10x_conf.h)(0x4A0282C6)
@@ -76,7 +76,7 @@ I (..\HARDWARE\USART3\usart3.h)(0x550C1DB6)
 I (..\HARDWARE\USART4\usart4.h)(0x5473340B)
 I (C:\Keil4.7\ARM\ARMCC\bin\..\include\string.h)(0x50F96150)
 I (C:\Keil4.7\ARM\ARMCC\bin\..\include\stdarg.h)(0x50F9614E)
-F (..\HARDWARE\USART1\usart1.c)(0x553EBD04)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\HARDWARE\LED -I..\HARDWARE\BEEP -I..\HARDWARE\KEY -I..\HARDWARE\USART2 -I..\HARDWARE\USART1 -I..\HARDWARE\USART3 -I..\HARDWARE\USART4 -I..\HARDWARE\TIMER -I..\HARDWARE\24CXX -I..\HARDWARE\DMA -I C:\Keil4.7\ARM\RV31\INC -I C:\Keil4.7\ARM\CMSIS\Include -I C:\Keil4.7\ARM\Inc\ST\STM32F10x -o "..\OBJ\usart1.o" --omf_browse "..\OBJ\usart1.crf" --depend "..\OBJ\usart1.d")
+F (..\HARDWARE\USART1\usart1.c)(0x5549B469)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\HARDWARE\LED -I..\HARDWARE\BEEP -I..\HARDWARE\KEY -I..\HARDWARE\USART2 -I..\HARDWARE\USART1 -I..\HARDWARE\USART3 -I..\HARDWARE\USART4 -I..\HARDWARE\TIMER -I..\HARDWARE\24CXX -I..\HARDWARE\DMA -I C:\Keil4.7\ARM\RV31\INC -I C:\Keil4.7\ARM\CMSIS\Include -I C:\Keil4.7\ARM\Inc\ST\STM32F10x -o "..\OBJ\usart1.o" --omf_browse "..\OBJ\usart1.crf" --depend "..\OBJ\usart1.d")
 I (..\SYSTEM\sys\sys.h)(0x50436833)
 I (..\SYSTEM\sys\stm32f10x_map.h)(0x4A0282C6)
 I (..\SYSTEM\sys\stm32f10x_conf.h)(0x4A0282C6)

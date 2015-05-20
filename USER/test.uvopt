@@ -229,10 +229,10 @@
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>13</ColumnNumber>
+      <ColumnNumber>6</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>77</TopLine>
-      <CurrentLine>92</CurrentLine>
+      <TopLine>74</TopLine>
+      <CurrentLine>103</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\test.c</PathWithFileName>
       <FilenameWithoutPath>test.c</FilenameWithoutPath>
@@ -395,10 +395,10 @@
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>13</ColumnNumber>
+      <ColumnNumber>14</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>4</TopLine>
-      <CurrentLine>22</CurrentLine>
+      <TopLine>1</TopLine>
+      <CurrentLine>18</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>..\HARDWARE\USART1\usart1.c</PathWithFileName>
       <FilenameWithoutPath>usart1.c</FilenameWithoutPath>
@@ -411,10 +411,10 @@
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>2</ColumnNumber>
+      <ColumnNumber>17</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>259</TopLine>
-      <CurrentLine>274</CurrentLine>
+      <TopLine>215</TopLine>
+      <CurrentLine>236</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>..\HARDWARE\USART3\usart3.c</PathWithFileName>
       <FilenameWithoutPath>usart3.c</FilenameWithoutPath>
@@ -443,10 +443,10 @@
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>30</ColumnNumber>
+      <ColumnNumber>2</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>1</TopLine>
-      <CurrentLine>15</CurrentLine>
+      <TopLine>26</TopLine>
+      <CurrentLine>47</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>..\HARDWARE\TIMER\timer.c</PathWithFileName>
       <FilenameWithoutPath>timer.c</FilenameWithoutPath>
